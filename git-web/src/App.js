@@ -10,7 +10,7 @@ function App() {
         Add
       </Button>
 
-      <h1>heloo amit</h1>
+      <h1>heloo </h1>
     </div>
   );
 }
