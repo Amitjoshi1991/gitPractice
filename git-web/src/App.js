@@ -6,9 +6,7 @@ function App() {
   return (
     <div className="App">
       <h1>click to Add</h1>
-      <Button variant="text" color="primary">
-        Add
-      </Button>
+       <text> hello brother </text>
 
       <h1>heloo </h1>
     </div>
